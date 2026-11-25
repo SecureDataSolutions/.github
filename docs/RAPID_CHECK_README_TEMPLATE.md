@@ -8,6 +8,8 @@ Use this template for each new public check. Keep the About SDS block verbatim. 
 
 [One sentence stating what this tool examines and the useful result. Keep familiar technical search terms here.]
 
+**Who this is for.** [Name the reader, the skill or access they need, and the decision the result helps them make. For a technical check, tell a nontechnical reader who can run it for them.]
+
 ## About SDS
 
 **Security, AI & Systems Engineering**
@@ -20,7 +22,6 @@ We publish SDS Rapid Checks as free, focused tools to help the community investi
 
 ## What this check covers
 
-- [Intended user and triggering problem.]
 - [Exact inputs, systems and supported versions.]
 - [Output and the decision it supports.]
 - [Coverage limits, permissions and data handling.]
