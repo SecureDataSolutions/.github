@@ -1,10 +1,10 @@
 ## Secure Data Solutions
 
-**Intelligent threat mitigation. Validated resilience. Defensible security.**
+**Security, AI & Systems Engineering**
 
-Secure Data Solutions (SDS) is a network and firewall security company. The SDS engineering team builds network detection, threat hunting and agentic security operations for organizations across South Florida and nationally. We find what attackers can reach, shut it down, and prove it holds.
+Secure Data Solutions helps businesses strengthen their security and put AI to work. We engineer the systems and workflows that reduce repetitive work, help teams understand and respond to threats, and turn security findings into verified improvements.
 
-This is also where we publish free checks and detections for cyber defenders.
+We publish SDS Rapid Checks as free, focused tools to help the community investigate specific risks and understand what needs attention. Each check states what it looks for, how to run it, and what its results can and cannot tell you.
 
 ### What you'll find here
 
@@ -28,6 +28,6 @@ Newest first:
 
 ### Work with us
 
-Start with one fixed-scope check, or see [all services and pricing](https://sdsitgroup.com/services/). [Discuss your project](https://sdsitgroup.com/contact).
+Work with SDS on security, AI workflows, networks and infrastructure. [Discuss your project](https://sdsitgroup.com/contact) or [explore our services](https://sdsitgroup.com/services/).
 
 🌐 [sdsitgroup.com](https://www.sdsitgroup.com) · 📞 (754) 357-8179
